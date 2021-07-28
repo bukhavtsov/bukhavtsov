@@ -1,4 +1,4 @@
-<h1>Artsiom Bukhautsou (@bukhavtsov) 👋</h1>
+<h1>Artem Bukhavtsov (@bukhavtsov) 👋</h1>
 
 - 💻 Core Stack: **Go, Angular, GCP**. Mainly focused on Web Development.
 - 🚀 <a href="https://linkedin.com/in/bukhautsou"  target="blank">Linkedin</a> | <a href="https://t.me/bukhautsou"  target="blank">Telegram</a>
