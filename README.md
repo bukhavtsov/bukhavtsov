@@ -1,7 +1,7 @@
 <h1>Artem Bukhavtsov (@bukhavtsov) 👋</h1>
 
-- 💻 Core Stack: **Go, Angular, GCP**. Mainly focused on Web Development.
-- 🚀 <a href="https://linkedin.com/in/bukhautsou"  target="blank">Linkedin</a> | <a href="https://t.me/bukhautsou"  target="blank">Telegram</a>
+- 💻 Focused on **Go, Kubernetes and Cloud technologies**.
+- 🚀 <a href="https://linkedin.com/in/bukhautsou"  target="blank">Linkedin</a> | <a href="https://www.youtube.com/@artemcodes"  target="blank">YouTube</a> | <a href="https://t.me/bukhautsou"  target="blank">Telegram</a> | <a href="mailto:artem.bukhavtsov@gmail.com"  target="blank">Email</a>
 
 <h2>📈 GitHub Stats</h2>
 
